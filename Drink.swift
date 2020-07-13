@@ -76,4 +76,6 @@ struct Drink: Identifiable {
                   calories: "0"),
         ]
     }
+    
+    static let advice: String = "Please be advised our food and drinks may contain allergens because we use shared equipment to store, prepare, and serve them. 2,000 calories a day is used for general nutrition advice, but calorie needs vary."
 }
